@@ -367,8 +367,8 @@
       "extraLabel": "OSL"
     },
     {
-      "keyCode": 17152,
-      "label": "NEXT",
+      "keyCode": 17154,
+      "label": "TOGGLE",
       "extraLabel": "LED"
     },
     {
